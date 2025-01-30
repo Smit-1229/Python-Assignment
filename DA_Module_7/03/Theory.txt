@@ -1,0 +1,22 @@
+3) What is Python?
+
+    =>  Python is a high-level, general-purpose programming language known for its simplicity, readability, and versatility. 
+    
+    =>  It was created by Guido van Rossum and first released in 1991. 
+    
+    =>  Python emphasizes code readability with its clean and straightforward syntax, making it beginner-friendly 
+        while also being powerful for professionals.
+
+    Features Of Python : 
+        =>  Simple and Easy to Learn: 
+                Python is the simplest and easiest to learn due to the 
+                straight forward syntax, which reduces the complexity of code.
+
+        =>  Interpreted Language:
+                Python is an interpreted language, which means that code is
+                executed line by line, which make easier to test and find error and fixed immediately.  
+
+        =>  High-Level Language:
+                Python abstracts the complexity of memory management, making it easier to write code 
+                without worrying about lower-level operations (e.g., memory allocation).
+

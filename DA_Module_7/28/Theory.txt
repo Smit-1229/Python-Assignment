@@ -1,0 +1,5 @@
+28) Differentiate between append () and extend () methods? 
+
+append() : it add an element to the end of the list.
+
+extend() : it add multiple element at the end of the list.

@@ -1,0 +1,11 @@
+25) What is List? How will you reverse a list?
+
+    =>  Lists is the collection of data set seperated by ',' write in the '( )'.
+    =>  Lists is a collecction of data elemnts.
+    =>  Lists are mutable, meaning you can change their contents after they are created.
+
+
+    We Can Reverse the list with the following method :
+
+    => Reverse() method: 
+    syntax : list.reverse()

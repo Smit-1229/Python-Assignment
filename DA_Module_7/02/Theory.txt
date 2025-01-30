@@ -1,0 +1,15 @@
+2) What is programing? 
+
+    =>  Programming is the process of creating a set of instructions that a computer can follow to 
+        perform specific tasks or solve problems. These instructions, written in a programming language, 
+        tell the computer how to process data, perform calculations, interact with users, and produce 
+        desired outcomes.
+
+    =>  Programming is the process of designing, writing, testing, and maintaining code that makes computers 
+        solve problems, automate tasks, or create interactive tools. It combines logical thinking with 
+        creativity to build solutions in the digital world.
+
+
+
+
+

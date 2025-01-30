@@ -1,0 +1,4 @@
+7) How memory is managed in Python? 
+
+    =>  In Python, memory management for objects is tightly integrated with its object-oriented programming (OOP) model. 
+    

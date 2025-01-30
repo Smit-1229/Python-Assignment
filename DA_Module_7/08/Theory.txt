@@ -1,0 +1,6 @@
+8) What is the purpose continuing statement in python? 
+
+    => The Continue statement is used to skip the current iteration of the loop and moving directly to the next iteratiion .
+    => Unlike Breat it does not terminate the loop it does not terminate itjust skip the current iterattion.
+
+    

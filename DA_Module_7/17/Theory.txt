@@ -1,0 +1,7 @@
+17) What are negative indexes and why are they used?
+
+    =>  In Python, negative indexes allow you to access elements from the end of a sequence, such as a 
+        list, string, or tuple, rather than from the beginning.
+
+    =>  A positive index starts from 0 (the first element), while a negative index starts 
+        from -1 (the last element), -2 (the second-last element), and so on.
