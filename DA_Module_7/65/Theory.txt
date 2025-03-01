@@ -1,0 +1,18 @@
+65) How Many Basic Types of Functions Are Available in Python? 
+
+=> In Python, there are two basic types of functions based on their definition and usage:
+
+    1. Built-in Functions : These are functions that come pre-defined with Python and are readily available 
+        for use without any need for additional imports or definitions.
+
+    2. User-defined Functions : These are functions created by the user to perform specific tasks.
+        You can define a function using the def keyword, provide a name, and optionally include parameters and a return value.
+        User-defined functions are flexible and tailored to meet specific requirements in your program.
+
+=> Additional Types of Functions (Based on Behavior)
+
+    1. Lambda Functions (Anonymous Functions) : These are short, single-expression functions created using the lambda keyword.
+
+    2. Recursive Functions : These are functions that call themselves to solve smaller instances of the same problem.
+
+    3. Generator Functions : These use the yield keyword to produce a sequence of values lazily (one at a time).

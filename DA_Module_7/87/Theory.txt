@@ -1,0 +1,7 @@
+87) When is the finally block executed? 
+
+=> The finally block in Python is always executed, regardless of whether an exception occurred or not, 
+   or whether the exception was handled. 
+   
+=> It is typically used for cleanup operations, such as releasing resources, closing files, or performing 
+   any necessary finalization steps.

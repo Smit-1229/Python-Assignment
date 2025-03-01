@@ -1,0 +1,16 @@
+70. What is File function in python? What are keywords to create and write file. 
+
+=> File Function :  It is one of the reason people using python.
+                    File funtion means the ways by  which the file handling is done in python.
+                    File handling means the abality to reand and write file stored in computer.
+                    File handling has amny function like read, write and append in python.
+                    Python allows file format like binary, txt, and many other
+
+=> Keywords to create and write files are :
+    -- "r" Read  : to read the file 
+    -- "w" Write : to write in file. If the file is not found it will create a file.
+    -- "a" Append : to add data in the file and it will create a file if it is not found
+    -- "x" Eclusive Creation : To create a file and raise a error if file is already created.
+    -- "b" Binary : to open the file in binary mode.
+    -- "t" Text : to open the file in text format.
+    
